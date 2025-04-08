@@ -34,7 +34,7 @@ header {
 nav {
     background: linear-gradient(to right, black, rgb(85, 54, 195));
     text-align: center;
-    padding: 10px 0px;
+    padding: 10px 0;
 }
 
 nav ul {
