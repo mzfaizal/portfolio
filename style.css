@@ -74,6 +74,12 @@ nav ul li a:hover {
     text-align: left;
 }
 */
+section {
+      padding: 20px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      background-color: #f9f9f9;
+    }
 /* Section Titles */
 h2 {
     color: #2f91d3; /* Dark Red */
