@@ -39,7 +39,7 @@ nav {
 
 nav ul {
     list-style-type: none;
-    display: flex-direction:column;
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -54,7 +54,7 @@ nav ul li a {
     font-size: 1.1em;
     font-weight: bold;
     padding: 10px 15px;
-    display: inline-block;
+    display: -block;
     transition: background 0.3s ease-in-out;
 }
 
