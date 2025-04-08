@@ -32,14 +32,14 @@ header {
 
 /* Navigation Bar */
 nav {
-    background: linear-gradient(to right, black, rgba(85, 54, 195));
+    background: linear-gradient(to right, black, rgb(85, 54, 195));
     text-align: center;
     padding: 10px 0px;
 }
 
 nav ul {
     list-style-type: none;
-    display: flex;
+    display: flex-direction:column;
     justify-content: center;
     flex-wrap: wrap;
 }
