@@ -32,7 +32,7 @@ header {
 
 /* Navigation Bar */
 nav {
-    background: linear-gradient(to right, black, rgba(85, 54, 195));;
+    background: linear-gradient(to right, black, rgba(85, 54, 195));
     text-align: center;
     padding: 10px 0px;
 }
@@ -136,7 +136,6 @@ footer {
 /* Responsive Design */
 @media screen and (max-width: 600px) {
     nav ul {
-         width: 100%;
         flex-direction: column;
     }
 
