@@ -15,7 +15,7 @@ body {
 
 /* Header */
 header {
-    background: near-gradient(to right, black, rgba(0, 217, 255, 514));;
+    background: linear-gradient(to right, black, rgba(0, 217, 255, 514));;
     color: rgb(64, 224, 208);
     padding: 20px 0;
 }
@@ -27,12 +27,13 @@ header {
 
 .header-content p {
     font-size: 1.2em;
-    color: #ffe657; /* Light Yellow for contrast */
+    color:  rgba(211, 204, 255, 1); 
 }
 
 /* Navigation Bar */
 nav {
-    background: linear-gradient(to right, rgba(0, 0, 139), rgba(211, 204, 255, 1));
+    background: linear-gradient(to right, black, rgba(0, 0, 139));
+    background: linear-gradient(to right, black, rgba(255, 153, 0, 0.658));
     text-align: center;
     padding: 10px 0;
 }
