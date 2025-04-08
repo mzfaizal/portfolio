@@ -136,6 +136,7 @@ footer {
 /* Responsive Design */
 @media screen and (max-width: 600px) {
     nav ul {
+         width: 100%;
         flex-direction: column;
     }
 
