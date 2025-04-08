@@ -63,7 +63,7 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Section Content */
+/* Section Content 
 .section-content {
     background: rgb(255, 255, 255);
     margin: 20px auto;
@@ -73,7 +73,7 @@ nav ul li a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: left;
 }
-
+*/
 /* Section Titles */
 h2 {
     color: #2f91d3; /* Dark Red */
