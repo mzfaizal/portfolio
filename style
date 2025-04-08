@@ -1,0 +1,9 @@
+.body{
+background:beige;
+margin: 20px auto;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+
+}
