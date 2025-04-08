@@ -33,7 +33,6 @@ header {
 /* Navigation Bar */
 nav {
     background: linear-gradient(to right, black, rgba(0, 0, 139));
-    background: linear-gradient(to right, black, rgba(255, 153, 0, 0.658));
     text-align: center;
     padding: 10px 0;
 }
