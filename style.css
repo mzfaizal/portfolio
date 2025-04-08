@@ -116,7 +116,7 @@ h2 {
 /* Resume Button */
 .download-button {
     display: inline-block;
-    background: linear-gradient(to right, black, rgba(255, 0, 106, 0.425));
+    background: linear-gradient(to right, black, rgba(0, 0, 139));
     color: rgb(255, 255, 255);
     padding: 10px 20px;
     text-decoration: none;
